@@ -1,0 +1,22 @@
+.search {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.search-box {
+    width: 60%;
+    height: 46px;
+    font-size: 16px;
+}
+
+.button {
+    background-color: rgb(76, 175, 137);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}

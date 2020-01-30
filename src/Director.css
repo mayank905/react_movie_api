@@ -1,0 +1,14 @@
+.movie {
+    width: 75%;
+    color: white;
+}
+
+.title-year {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.id, .name {
+    font-weight: bold;
+}

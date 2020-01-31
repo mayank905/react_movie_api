@@ -1,11 +1,11 @@
 .search {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 10px;
+    grid-gap: 5px;
 }
 
 .search-box {
-    width: 60%;
+
     height: 46px;
     font-size: 16px;
 }
@@ -19,4 +19,7 @@
     text-decoration: none;
     font-size: 16px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+
 }

@@ -1,0 +1,19 @@
+.movie {
+    width: 75%;
+    color: white;
+}
+
+.title-year {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title, .year {
+    font-weight: bold;
+}
+.buttons{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}

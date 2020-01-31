@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f7e28a-1361-4fe4-8cf8-da3e2831db58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/movieDetail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/editDirector.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/editDirector.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/movieDetail.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Director.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Director.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Movie.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Movie.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/movieDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/movieDetail.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +84,8 @@
       <updated>1580357210878</updated>
       <workItem from="1580357212406" duration="6063000" />
       <workItem from="1580364802848" duration="17881000" />
-      <workItem from="1580435197618" duration="8763000" />
+      <workItem from="1580435197618" duration="28915000" />
+      <workItem from="1580471037226" duration="623000" />
     </task>
     <servers />
   </component>

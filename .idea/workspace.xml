@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f7e28a-1361-4fe4-8cf8-da3e2831db58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Director.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Director.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/movieDetail.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Director.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Director.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Movie.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Movie.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,11 +81,18 @@
       <option name="presentableId" value="Default" />
       <updated>1580357210878</updated>
       <workItem from="1580357212406" duration="6063000" />
-      <workItem from="1580364802848" duration="15202000" />
+      <workItem from="1580364802848" duration="17881000" />
+      <workItem from="1580435197618" duration="8763000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="201" width="613" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580438206519">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="405" y="201" width="613" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1580438206519" />
   </component>
 </project>

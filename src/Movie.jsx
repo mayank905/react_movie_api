@@ -1,5 +1,6 @@
 import React,{useState,useEffect} from 'react';
 import "./Movie.css";
+import {Link} from 'react-router-dom'
 
 function Movie() {
 
@@ -16,10 +17,7 @@ function Movie() {
     }
         return (
             <div className="movie">
-                <div className="title-year">
-                    <h4 className="title"></h4>
-                    <h5 className="year"></h5>
-                </div>
+                {items.map(item=>(<h1 key={item.id}><Link to={'/movies/'+item.id}>{item.title}</Link></h1>))}
             </div>
         )
 

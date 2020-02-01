@@ -38,7 +38,7 @@ function EditDirector(match) {
                 'Content-Type': 'application/json',
             }
            })
-        console.log("edit worked")
+        console.log("delete worked")
         console.log(data1)
     }
 

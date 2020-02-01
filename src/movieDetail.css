@@ -16,4 +16,27 @@
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
+
+}
+input{
+    background-color: #282c34;
+    color:white;
+    border:0px;
+    font-weight:bold;
+    height: 20px;
+    font-size: 15px;
+}
+div{
+    font-size: 15px;
+    font-weight: bold;
+}
+.movie div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+.buttons input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
